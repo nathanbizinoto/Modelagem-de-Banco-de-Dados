@@ -1,4 +1,4 @@
-# 🎓 Trabalho Final para a Disciplina de Modelagem de Banco de Dados
+# Trabalho Final Modelagem de Banco de Dados
 
 ## Cenário
 
