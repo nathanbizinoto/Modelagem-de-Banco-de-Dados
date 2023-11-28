@@ -4,16 +4,15 @@
 
 Uma escola deseja implementar um sistema de gestão escolar para acompanhar informações sobre alunos, professores, disciplinas, notas e turmas. O objetivo é facilitar a administração escolar, fornecendo uma maneira eficiente de gerenciar e organizar dados relacionados ao corpo discente, docente e às atividades acadêmicas. 
 
-Entidade: Alunos
+### Entidade: Alunos
 
 Atributos:
 ID (PK, int) Nome (varchar) Data de Nascimento (date) Endereço (varchar) E-mail (varchar) Telefone (varchar)
 
-Entidade: Professor
+### Entidade: Professor
 
 Atributos:
 ID (PK, int) Nome (varchar) Especialidade (varchar) E-mail (varchar) Telefone (varchar)
-
 
 ### Entidade: Disciplina
 
