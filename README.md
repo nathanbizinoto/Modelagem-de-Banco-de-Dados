@@ -7,30 +7,29 @@ Uma escola deseja implementar um sistema de gestão escolar para acompanhar info
 #### Entidade: Alunos
 
 Atributos:
-ID (PK, int) Nome (varchar) Data de Nascimento (date) Endereço (varchar) E-mail (varchar) Telefone (varchar)
+ID (PK, int); Nome (varchar); Data de Nascimento (date); Endereço (varchar); E-mail (varchar); Telefone (varchar)
 
 #### Entidade: Professor
 
 Atributos:
-ID (PK, int) Nome (varchar) Especialidade (varchar) E-mail (varchar) Telefone (varchar)
+ID (PK, int); Nome (varchar); Especialidade (varchar); E-mail (varchar); Telefone (varchar)
 
 #### Entidade: Disciplina
 
 Atributos:
-ID (PK, int) Nome (varchar) Carga Horária (int)
+ID (PK, int;) Nome (varchar); Carga Horária (int)
 
 #### Entidade: Nota
 
 Atributos:
-ID (PK, int) Valor (decimal)  Data da Avaliação (date)
+ID (PK, int); Valor (decimal); Data da Avaliação (date)
 Chaves Estrangeiras:
-Aluno_ID (FK referenciando Aluno)
-Disciplina_ID (FK referenciando Disciplina)
+Aluno_ID (FK referenciando Aluno); Disciplina_ID (FK referenciando Disciplina)
 
 #### Entidade: Turma
 
 Atributos:
-ID (PK, int) Ano (int) Período (varchar)
+ID (PK, int); Ano (int); Período (varchar)
 Chave Estrangeira:
 Professor_ID (FK referenciando Professor)
 
