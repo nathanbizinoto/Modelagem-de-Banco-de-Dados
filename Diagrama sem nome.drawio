@@ -1,9 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T15:57:24.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="22.1.5" etag="MYR5QD82_ZuOBBgujZlb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T16:42:46.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sgCNlvQGeV65skwi9ejQ" version="22.1.5" type="github">
   <diagram name="Página-1" id="-bhHod5kBAYXy1dUUhGd">
-    <mxGraphModel>
+    <mxGraphModel dx="1886" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-2" value="&lt;h4 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 16px; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;&lt;br&gt;&lt;/h4&gt;&lt;h4 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 16px; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;&lt;a style=&quot;box-sizing: border-box; background-color: transparent; text-decoration-line: none; float: left; padding-right: 4px; margin-left: -20px; line-height: 1; position: absolute; text-underline-offset: 0.2rem;&quot; href=&quot;https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados#entidade-disciplina&quot; tabindex=&quot;-1&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot; id=&quot;user-content-entidade-disciplina&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; width=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; class=&quot;octicon octicon-link&quot;&gt;&lt;path d=&quot;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Entidade: Disciplina&lt;/h4&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;auto&quot;&gt;Atributos: ID (PK, int;) Nome (varchar); Carga Horária (int)&lt;/p&gt;&lt;h4 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 16px; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;&lt;a style=&quot;box-sizing: border-box; background-color: transparent; text-decoration-line: none; float: left; padding-right: 4px; margin-left: -20px; line-height: 1; position: absolute; text-underline-offset: 0.2rem;&quot; href=&quot;https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados#entidade-nota&quot; tabindex=&quot;-1&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot; id=&quot;user-content-entidade-nota&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; width=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; class=&quot;octicon octicon-link&quot;&gt;&lt;path d=&quot;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Entidade: Nota&lt;/h4&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;auto&quot;&gt;Atributos: ID (PK, int); Valor (decimal); Data da Avaliação (date) Chaves Estrangeiras: Aluno_ID (FK referenciando Aluno); Disciplina_ID (FK referenciando Disciplina)&lt;/p&gt;&lt;h4 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 16px; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;&lt;a style=&quot;box-sizing: border-box; background-color: transparent; text-decoration-line: none; float: left; padding-right: 4px; margin-left: -20px; line-height: 1; position: absolute; text-underline-offset: 0.2rem;&quot; href=&quot;https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados#entidade-turma&quot; tabindex=&quot;-1&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot; id=&quot;user-content-entidade-turma&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; width=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; class=&quot;octicon octicon-link&quot;&gt;&lt;path d=&quot;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Entidade: Turma&lt;/h4&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;auto&quot;&gt;Atributos: ID (PK, int); Ano (int); Período (varchar) Chave Estrangeira: Professor_ID (FK referenciando Professor)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="263" y="790" width="300" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEZzJpYQlKPg0DFxGwW9-3" target="XEZzJpYQlKPg0DFxGwW9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEZzJpYQlKPg0DFxGwW9-3" target="XEZzJpYQlKPg0DFxGwW9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-3" value="ALUNO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEZzJpYQlKPg0DFxGwW9-6" target="XEZzJpYQlKPg0DFxGwW9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-6" value="PROFESSOR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEZzJpYQlKPg0DFxGwW9-10" target="XEZzJpYQlKPg0DFxGwW9-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-10" value="DISCIPLINA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-11" value="NOTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEZzJpYQlKPg0DFxGwW9-12" target="XEZzJpYQlKPg0DFxGwW9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-12" value="TURMA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEZzJpYQlKPg0DFxGwW9-15" target="XEZzJpYQlKPg0DFxGwW9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-15" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XEZzJpYQlKPg0DFxGwW9-19" target="XEZzJpYQlKPg0DFxGwW9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-19" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEZzJpYQlKPg0DFxGwW9-24" target="XEZzJpYQlKPg0DFxGwW9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-24" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEZzJpYQlKPg0DFxGwW9-27" target="XEZzJpYQlKPg0DFxGwW9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-27" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-33" value="id_aluno" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="260" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-35" value="nome" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="180" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-36" value="dt_nascimento" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-39" value="email" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-40" value="telefone" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-41" value="endereço" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-42" value="id_professor" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="260" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-43" value="nome" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="170" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-44" value="dt_nascimento" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-45" value="email" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="80" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-46" value="telefone" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="120" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-47" value="endereço" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="180" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-48" value="carga_horaria" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="680" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-49" value="nome" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="630" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEZzJpYQlKPg0DFxGwW9-50" value="id_disciplina" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="515" width="80" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
