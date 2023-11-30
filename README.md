@@ -59,7 +59,52 @@ Professor_ID (FK referenciando Professor)
 
 
 ## Relatórios
-![5](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/579d7b3b-2645-4a86-af88-461a48e8541b)
+
+#### 1 - Selecione os alunos que começam com C
+![1](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/1346ab8f-5d58-4b78-8e41-a1cbf42b47ff)
+
+#### 2 - Selecione as turmas do periodo noturno
+![2](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/a750aa9b-f0de-4beb-aa9c-cf6727a2f610)
+
+#### 3 - Selecione todos os alunos da Cidade B
+![3](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/601fb63b-f559-4344-93e2-49a254d4bcec)
+
+#### 4 - Selecione todos os alunos que possuem a letra B no nome
+![4](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/84464b06-2dd6-4ae6-8a18-56d3d91c698f)
+
+#### 5- Selecione todas as disciplinas com mais de 30 de carga horaria
+![5](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/80a04bcb-f13f-407e-a1cf-8e340ca6dac9)
+
+#### 6- Selecione todas as disciplinas
+![6](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/24826541-8a1d-43bd-b60c-b506ecd50b08)
+
+#### 7 - Selecione as disciplinas com 45 de carga horaria
+![7](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/e4284f1e-152d-44ad-b9fe-7593731710bb)
+
+#### 8 - Selecione os alunos nascidos em 1999 e 2001
+![8](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/250991ee-0401-4805-abd7-a4e847faeb42)
+
+#### 9 - Selecione os alunos nascidos em 2001 na Cidade A
+![9](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/4ec23468-7726-4388-8eb9-8e88821ac969)
+
+#### 10 - Selecione os professores que começam com a letra J
+![10](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/4505ab35-8ae0-4c7c-8d35-6b4bb0ad46ba)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
