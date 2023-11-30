@@ -35,7 +35,7 @@ Professor_ID (FK referenciando Professor)
 
 # 💻 Modelagem Conceitual
 
-
+![DER drawio](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/c99d6fc2-027c-4c2b-9c17-21481c2b351a)
 
 # 💻 Modelagem Lógica
 
