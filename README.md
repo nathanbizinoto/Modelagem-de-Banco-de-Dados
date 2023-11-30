@@ -59,6 +59,9 @@ Professor_ID (FK referenciando Professor)
 
 
 ## Relatórios
+![5](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/579d7b3b-2645-4a86-af88-461a48e8541b)
+
+
 
 
 
