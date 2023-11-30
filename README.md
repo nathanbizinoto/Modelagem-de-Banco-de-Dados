@@ -46,17 +46,19 @@ Professor_ID (FK referenciando Professor)
 
 
 ## CRUD
+#### Create
+![CREATE](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/f8a72be7-5816-403f-b6ba-1f325ad3f626)
+#### Delete
+![DELETE](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/bc75f581-d3da-496f-bcff-62050302fca5)
+#### Read
+![READ](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/c462804c-e237-4929-ae67-465702bd88af)
+#### Update
+![UPDATE](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/f195da3e-46c9-4239-8228-07588653c245)
+
 
 
 
 ## Relatórios
-![CREATE](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/f8a72be7-5816-403f-b6ba-1f325ad3f626)
-
-![DELETE](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/bc75f581-d3da-496f-bcff-62050302fca5)
-
-![READ](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/c462804c-e237-4929-ae67-465702bd88af)
-
-![UPDATE](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/f195da3e-46c9-4239-8228-07588653c245)
 
 
 
