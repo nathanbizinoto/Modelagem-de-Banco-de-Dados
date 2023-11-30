@@ -51,13 +51,13 @@ Os dados inseridos nas tabelas se encontram nesse mesmo repositório no arquivo 
 
 
 # 💻 CRUD
-#### Create
+## Create
 ![CREATE](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/f8a72be7-5816-403f-b6ba-1f325ad3f626)
-#### Delete
+## Delete
 ![DELETE](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/bc75f581-d3da-496f-bcff-62050302fca5)
-#### Read
+## Read
 ![READ](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/c462804c-e237-4929-ae67-465702bd88af)
-#### Update
+##Update
 ![UPDATE](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/f195da3e-46c9-4239-8228-07588653c245)
 
 
