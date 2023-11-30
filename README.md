@@ -39,6 +39,7 @@ Professor_ID (FK referenciando Professor)
 
 # 💻 Modelagem Lógica
 
+![Modelo Logico](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/c41d5188-3f31-4981-abd7-54928cc0bdaa)
 
 
 # 💻 Dados
