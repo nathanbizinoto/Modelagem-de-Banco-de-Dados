@@ -1,6 +1,6 @@
-# Trabalho Final Modelagem de Banco de Dados
+# 💻 Trabalho Final Modelagem de Banco de Dados
 
-## Cenário - Sistema de Gestão Escolar
+## 💻 Cenário - Sistema de Gestão Escolar
 
 Uma escola deseja implementar um sistema de gestão escolar para acompanhar informações sobre alunos, professores, disciplinas, notas e turmas. O objetivo é facilitar a administração escolar, fornecendo uma maneira eficiente de gerenciar e organizar dados relacionados ao corpo discente, docente e às atividades acadêmicas. 
 
@@ -33,19 +33,19 @@ ID (PK, int); Ano (int); Período (varchar)
 Chave Estrangeira:
 Professor_ID (FK referenciando Professor)
 
-## Modelagem Conceitual
+## 💻 Modelagem Conceitual
 
 
 
-## Modelagem Lógica
+## 💻 Modelagem Lógica
 
 
 
-## Dados
+## 💻 Dados
 
 
 
-## CRUD
+## 💻 CRUD
 #### Create
 ![CREATE](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/f8a72be7-5816-403f-b6ba-1f325ad3f626)
 #### Delete
@@ -58,7 +58,7 @@ Professor_ID (FK referenciando Professor)
 
 
 
-## Relatórios
+## 💻 Relatórios
 
 #### 1 - Selecione os alunos que começam com C
 ![1](https://github.com/nathanbizinoto/Modelagem-de-Banco-de-Dados/assets/132208052/1346ab8f-5d58-4b78-8e41-a1cbf42b47ff)
