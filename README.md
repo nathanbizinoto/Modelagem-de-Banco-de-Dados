@@ -43,6 +43,8 @@ Professor_ID (FK referenciando Professor)
 
 # 💻 Dados
 
+Os dados inseridos nas tabelas se encontram nesse mesmo repositório no arquivo dados.sql
+
 
 
 # 💻 CRUD
